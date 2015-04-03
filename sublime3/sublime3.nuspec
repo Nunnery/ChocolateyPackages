@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>sublime3</id>
     <title>Sublime Text 3</title>
     <version>3.0.0.{{PackageVersion}}</version>
@@ -15,8 +13,7 @@
     <tags>sublime text editor st3</tags>
     <licenseUrl>http://www.sublimetext.com/eula</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!-- Important note about https://cdn.rawgit.com: Files are cached permanently after the first request. Use commit URLs when updating the icon. -->
-    <!--<iconUrl>http://cdn.rawgit.com/Nunnery/ChocolateyPackages/master/icons/sublime3.png</iconUrl>-->
+    <iconUrl>https://cdn.rawgit.com/Nunnery/ChocolateyPackages/8d23e9611697e161a3c1b321172dd189bec8a626/sublime3/Sublime_Text_Logo.png</iconUrl>
     <releaseNotes>http://www.sublimetext.com/3</releaseNotes>
   </metadata>
   <files>
