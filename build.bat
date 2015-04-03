@@ -1,1 +1,0 @@
-ketarin /silent /install=ketarin.xml
